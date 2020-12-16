@@ -4,7 +4,6 @@ body {
   background-color: #F9E1FA;
   line-height: 35px;
 }
-
 header{
 text-align: center;
 padding-top: 10px;
@@ -12,13 +11,18 @@ padding-bottom: 10px;
 }
 #header-background{
   width:100%;
-  height: 800px;
-  background: url('https://cdnb.artstation.com/p/assets/images/images/010/097/889/large/zooi-courage.jpg?1522572683')
-
+  height: 900px;
+  background-image: url('https://cdnb.artstation.com/p/assets/images/images/010/097/889/large/zooi-courage.jpg?1522572683')
 }
+
+
+
 header h1 {
-  font-family: 'Griffy', cursive;
+  font-family: 'Barrio', cursive;
+  line-height: 4;
   font-size: 100px;
+  letter-spacing: -1px;
+  color: #CDB0E6;
 }
 p {
   text-align: center;
@@ -26,7 +30,7 @@ p {
 h1, h2 {
   padding-top: 20px;
   padding-bottom: 10px;
-  font-family: 'Griffy', cursive;
+font-family: 'Barrio', cursive;
   color: #5D199D;
   font-size: 40px;
   text-align: center;
@@ -48,7 +52,7 @@ main{
   margin-right: auto;
   width: 35%;
   border-radius: 10%;
-  border:  5px solid #94BF3F;
+  border:  5px solid #629B12;
 }
 
 a{
@@ -61,11 +65,13 @@ a:hover{
 
 header img {
   border-radius: 50%;
-  width: 350px;
+  width: 330px;
   height: 260px;
-  border: 10px solid #4C1C16;
+  border: 7px solid #80490A;
+  line-height: 3;
+
 }
 footer {
-  background-color: #94BF3F;
+  background-color: #629B12;
   text-align: center;
 }
