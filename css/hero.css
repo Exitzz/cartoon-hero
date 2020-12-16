@@ -22,7 +22,7 @@ header h1 {
   line-height: 4;
   font-size: 100px;
   letter-spacing: -1px;
-  color: #CDB0E6;
+  color: #088337;
 }
 p {
   text-align: center;
@@ -31,7 +31,7 @@ h1, h2 {
   padding-top: 20px;
   padding-bottom: 10px;
 font-family: 'Barrio', cursive;
-  color: #5D199D;
+  color: #088337;
   font-size: 40px;
   text-align: center;
 }
@@ -67,7 +67,7 @@ header img {
   border-radius: 50%;
   width: 330px;
   height: 260px;
-  border: 7px solid #80490A;
+  border: 7px solid #E5C6E8;
   line-height: 3;
 
 }
