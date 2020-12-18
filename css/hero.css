@@ -4,6 +4,9 @@ body {
   background-color: #F9E1FA;
   line-height: 40px;
 }
+
+
+
 header{
 text-align: center;
 padding-top: 50px;
@@ -17,6 +20,7 @@ header h1 {
   padding-top: 20px;
   padding-bottom: 30px;
   top: 60px;
+
 }
 header h1{
     color: #1E0445;
@@ -81,12 +85,12 @@ a:hover{
 }
 
 header img {
-
   border-radius: 60%;
   width: 370px;
   height: 300px;
   border: 7px solid #F2DBF4;
   line-height: 3;
+
 }
 
 footer {
